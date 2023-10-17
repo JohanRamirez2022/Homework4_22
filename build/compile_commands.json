@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Ramir/Google Drive/UNR/Fall 2023/CS 302/Projects/cs302hw4/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\cs302hw4.dir\\driver.cpp.obj -c \"C:\\Users\\Ramir\\Google Drive\\UNR\\Fall 2023\\CS 302\\Projects\\cs302hw4\\driver.cpp\"",
+  "file": "C:/Users/Ramir/Google Drive/UNR/Fall 2023/CS 302/Projects/cs302hw4/driver.cpp",
+  "output": "CMakeFiles/cs302hw4.dir/driver.cpp.obj"
+}
+]

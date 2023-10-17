@@ -1,0 +1,3 @@
+C:\mingw64\bin\cmake.exe -E rm -f CMakeFiles\cs302hw4.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\cs302hw4.dir/objects.a @CMakeFiles\cs302hw4.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\cs302hw4.dir/objects.a -Wl,--no-whole-archive -o cs302hw4.exe -Wl,--out-implib,libcs302hw4.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cs302hw4.dir\linkLibs.rsp
